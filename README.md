@@ -23,7 +23,7 @@ This dashboard provides a visual breakdown of:
 
 | Overview Page | Insight Sections | Fun Facts + Slicers |
 |---------------|------------------|----------------------|
-| ![overview](screenshots/overview.png) | ![sections](screenshots/sections.png) | ![trivia](screenshots/funfacts.png) |
+| ![overview](https://github.com/snehez/amazon-prime-video-dashboard/blob/main/AmazonPrime.png) | ![sections](https://github.com/snehez/amazon-prime-video-dashboard/blob/main/AmazonPrimeExplore.png) | ![trivia](https://github.com/snehez/amazon-prime-video-dashboard/blob/main/AmazonPrimeFunFacts.png) |
 
 
 ## 📁 File Info
@@ -34,7 +34,7 @@ This dashboard provides a visual breakdown of:
 ## 🙋‍♀️ Created by
 
 **Sneha Ghosh** – Data Analyst & Power BI Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+[https://www.linkedin.com/in/sneha-ghosh-98aaa9337)
 
 
 ## ⭐ If you like it…
